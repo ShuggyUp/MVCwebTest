@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-family: "Open Sans", sans-serif;
+    color: #353535;
+    margin-bottom: 1em;
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    font-weight: normal;
+    font-family: "Open Sans", sans-serif;
+    color: #353535;
+    margin-bottom: 1em;
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #353535;
+}
+
+#header {
+    height: 40px;
+    padding: 40px;
+}
+
+#menu {
+    margin: 0 auto;
+    font-family: "Open Sans", sans-serif;
+}
+#menu ul {
+    display: flex;
+    justify-content: center;
+}
+
+#menu ul li {
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    margin: 0 8px 0 8px;
+}
+
+.box table {
+    border-collapse:collapse;
+    display: flex;
+    justify-content: center;
+}
+
+.box th, td {
+    border: 1px solid #e3e3e3;
+    padding: 5px;
+}
+
+form {
+    padding: 10px;
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+
+textarea {
+    padding: 5px;
+}
+
+select {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.inner {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.a {
+    padding: 10px;
+}
+
+.pageMenu {
+    text-align: center;
+    padding: 40px;
+}
+
+.text {
+    text-align: center;
+    padding: 5px;
+    font-size: 17px;
+}
